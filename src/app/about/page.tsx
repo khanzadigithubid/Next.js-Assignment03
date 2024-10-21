@@ -10,7 +10,7 @@ const About = () => {
         <h2 className="text-4xl text-center font-bold">About Us 🌟</h2>
         <br />
         <p className='text-center'>
-          Welcome to Scarf Boutique, where we offer a variety of scarves for every occasion. 🧣✨ Our mission is to provide high-quality, stylish scarves that enhance your wardrobe and express your unique style. Whether you're looking for a chic accessory for a night out or a cozy wrap for chilly days, we've got you covered! 💖
+          Welcome to Scarf Boutique, where we offer a variety of scarves for every occasion. 🧣✨ Our mission is to provide high-quality, stylish scarves that enhance your wardrobe and express your unique style. Whether you are looking for a chic accessory for a night out or a cozy wrap for chilly days, we have got you covered! 💖
         </p>
         <br />
         <h3 className="text-3xl mt-4 text-center font-bold">Our Values 🌱</h3>
